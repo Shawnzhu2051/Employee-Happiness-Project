@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="question_option1">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="question_option2">
+        <item>Reading</item>
+        <item>Writing</item>
+        <item>Have meetings</item>
+        <item>Make PPT</item>
+        <item>Break</item>
+    </string-array>
+    <string-array name="question_option3">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="question_option4">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="question_option5">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="question_option6">
+        <item>Angry</item>
+        <item>Joy</item>
+        <item>Pleasure</item>
+        <item>Sadness</item>
+    </string-array>
+    <string-array name="question_option7">
+        <item>0</item>
+        <item>1 ~ 2</item>
+        <item>3 ~ 5</item>
+        <item>5 ~ 10</item>
+        <item>More than 10</item>
+    </string-array>
+    <string-array name="question_option8">
+        <item>Less than 6</item>
+        <item>6 ~ 7</item>
+        <item>7 ~ 8</item>
+        <item>8 ~ 9</item>
+        <item>More than 9</item>
+    </string-array>
+</resources>

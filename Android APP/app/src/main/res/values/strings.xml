@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">EmployeeHappiness</string>
+    <string name="name">Name: Mr.Test</string>
+    <string name="gender">Gender: Male</string>
+    <string name="age">Age: 22</string>
+    <string name="email">Email: N1602352A@e.ntu.edu.sg</string>
+    <string name="location">Location: N4-b3c-14</string>
+    <string name="introduction">Please feedback your feelings to us every 60 minutes</string>
+    <string name="timer">Time before next feedback</string>
+    <string name="startfeedback">Start Feedback</string>
+    <string name="question_intro">Please select the choice based on your direct feelings</string>
+    <string name="login">Log in</string>
+    <string name="signin">Sign in</string>
+    <string name="logout">Log out</string>
+    <string name="username">User Name: </string>
+    <string name="password">Password:</string>
+    <string name="title">EMPLOYEE HAPPINESS PROJECT</string>
+    <string name="firsttime">First time?</string>
+    <string name="user_email_add">User Email Address: </string>
+    <string name="user_age">User Age: </string>
+    <string name="user_location">User Location: </string>
+    <string name="user_gender">User Gender: </string>
+    <string name="comfirm">Comfirm</string>
+    <string name="bloodpress">Blood Pressure</string>
+    <string name="heartrate">Heart Rate</string>
+    <string name="skintemp">Skin Temp</string>
+    <string name="airtemp">Air Temp</string>
+    <string name="humid">Humidity</string>
+    <string name="yourhappinesslevel">What is your Happiness Level?</string>
+    <string name="workingcontent">What type of work do you currently doing?</string>
+    <string name="thermalcomfort">What do you feel about the temperature?</string>
+    <string name="healthy">How is your current health situation?</string>
+    <string name="satisfactiondegreeaboutcurrentwork">What is your satisfaction level about your current work?</string>
+    <string name="emotion_type">Can you describe your current emotions?</string>
+    <string name="conversation">How many times did you have conversations with others in last hour?</string>
+    <string name="sleephour">How many hours did you sleep last night?</string>
+    <string name="question">Questions</string>
+    <string name="nodata">no data</string>
+    <string name="airpressure">Air Pressure</string>
+    <string name="brightness">Brightness</string>
+
+</resources>
