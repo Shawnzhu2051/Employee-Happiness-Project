@@ -2,7 +2,7 @@
 
 Funded by School of Computer Science and Engineering, Nanyang Technological University.
 
-###Introduction
+### Introduction
 
 * Stress, anxiety, and depression in theworkplace are detrimental to employee health and productivity.  The lifeexpectancy of people in a stressful environment can be reduced by up to 3 years. 
 * Theemployees who suffer from negative emotions havelower engagement and are less productive. 
