@@ -1,6 +1,8 @@
 ## Employee Happiness Project 
 
-Funded by School of Computer Science and Engineering, Nanyang Technological University.
+This project is funded by School of Computer Science and Engineering @ Nanyang Technological University. This project aim to study the relationship between human happiness and their objective feedback and physical data via wearable device.
+
+The code contains two part: The android APP and the Server. The android APP can connect to Microsoft band 2 and get its collected data, then send show them on the screen as well as send them to server. The server uses node.js to receive the request from mobile phone and store it in MySQL database.
 
 ### Introduction
 
